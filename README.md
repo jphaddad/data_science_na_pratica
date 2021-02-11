@@ -5,7 +5,7 @@
 </p>
 
 # Professor João Paulo Amaral Haddad, Vetrinary Doctor, MSc, PhD
-<Sub>*Associate Professor of Epidemiology and Bioestatistic* at Veterinary School UFMG
+<Sub>*Associate Professor of Epidemiology and Bioestatistic* at Veterinary School UFMG - currently assigned as
 *Coordinator-General for Risk Analysis and Strategic Inteligence* at Ministry of Agriculture, Livestock and Food Supply</Sub>
 
 Graduated in Veterinary Medicine from the Federal University of Minas Gerais (1993), Master in Veterinary Medicine from the Federal University of Minas Gerais (1997) and doctorate in Epidemiology - Atlantic Veterinary College (2006). He is currently an Associate Professor at the Federal University of Minas Gerais and assigned to the Ministry of Agriculture, Livestock and Supply to exercise the function of Coordinator-General for Risk Analysis and Strategic Inteligence. He has experience in the area of Veterinary Medicine, with an emphasis on Epidemiology, acting mainly on the following themes: analysis of epidemiological data, spatial distribution, biostatistics, animal and public health.
