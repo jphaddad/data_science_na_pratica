@@ -4,7 +4,7 @@
   <img src="banner.png" width="999" height="243" >
 </p>
 
-# João Paulo Amaral Haddad
+# Professor João Paulo Amaral Haddad, Vetrinary Doctor, MSc, PhD
 <Sub>*Associate Professor of Epidemiology and Bioestatistic* at Veterinary School UFMG</Sub>
 <Sub>*Coordinator-General for Risk Analysis and Strategic Inteligence* at Ministry of Agriculture, Livestock and Food Supply</Sub>
 
