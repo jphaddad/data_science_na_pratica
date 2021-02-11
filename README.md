@@ -8,14 +8,12 @@
 <Sub>*Associate Professor of Epidemiology and Bioestatistic* at Veterinary School UFMG
 *Coordinator-General for Risk Analysis and Strategic Inteligence* at Ministry of Agriculture, Livestock and Food Supply</Sub>
 
-Graduated in Veterinary Medicine from the Federal University of Minas Gerais (1993), Master in Veterinary Medicine from the Federal University of Minas Gerais (1997) and doctorate in Epidemiology - Atlantic Veterinary College (2006). He is currently an associate professor at the Federal University of Minas Gerais. He has experience in the area of Veterinary Medicine, with an emphasis on Epidemiology, acting mainly on the following themes: analysis of epidemiological data, spatial distribution, biostatistics, animal and public health.
+Graduated in Veterinary Medicine from the Federal University of Minas Gerais (1993), Master in Veterinary Medicine from the Federal University of Minas Gerais (1997) and doctorate in Epidemiology - Atlantic Veterinary College (2006). He is currently an Associate Professor at the Federal University of Minas Gerais and assigned to the Ministry of Agriculture, Livestock and Supply to exercise the function of Coordinator-General for Risk Analysis and Strategic Inteligence. He has experience in the area of Veterinary Medicine, with an emphasis on Epidemiology, acting mainly on the following themes: analysis of epidemiological data, spatial distribution, biostatistics, animal and public health.
 
-**Background in:** Stata, QGIS, Space Operations and Mathematical Optimisation.
+**Background in:** Stata, QGIS, Biostatistics and Risk analysis .
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
+* [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-paulo-amaral-haddad-2a18bb147/)
 
 
 ## Projetos:
