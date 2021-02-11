@@ -8,9 +8,9 @@
 <Sub>*Associate Professor of Epidemiology and Bioestatistic* at Veterinary School UFMG
 *Coordinator-General for Risk Analysis and Strategic Inteligence* at Ministry of Agriculture, Livestock and Food Supply</Sub>
 
-Graduado em Medicina Veterinária pela Universidade Federal de Minas Gerais (1993), mestrado em Medicina Veterinária pela Universidade Federal de Minas Gerais (1997) e doutorado em Epidemiologia - Atlantic Veterinary College (2006). Atualmente é professor associado da Universidade Federal de Minas Gerais. Tem experiência na área de Medicina Veterinária, com ênfase em Epidemiologia, atuando principalmente nos seguintes temas: análise de dados epidemiológicos, distribuição espacial, bioestatística, saúde animal e pública.
+Graduated in Veterinary Medicine from the Federal University of Minas Gerais (1993), Master in Veterinary Medicine from the Federal University of Minas Gerais (1997) and doctorate in Epidemiology - Atlantic Veterinary College (2006). He is currently an associate professor at the Federal University of Minas Gerais. He has experience in the area of Veterinary Medicine, with an emphasis on Epidemiology, acting mainly on the following themes: analysis of epidemiological data, spatial distribution, biostatistics, animal and public health.
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Stata, QGIS, Space Operations and Mathematical Optimisation.
 
 **Links:**
 * [Blog](http://sigmoidal.ai)
