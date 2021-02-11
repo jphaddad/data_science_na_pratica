@@ -5,12 +5,10 @@
 </p>
 
 # João Paulo Amaral Haddad
-##Professor Associado de Epidemiologia e Bioestatística - Escola de Veterinária UFMG
-##Coordenador Geral de Avaliação de Risco e Inteligência Estratégica - CGRI/DSN/SDA/MAPA
+<P>Professor Associado de Epidemiologia e Bioestatística - Escola de Veterinária UFMG</P>
+<P>Coordenador Geral de Avaliação de Risco e Inteligência Estratégica - CGRI/DSN/SDA/MAPA</P>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Graduado em Medicina Veterinária pela Universidade Federal de Minas Gerais (1993), mestrado em Medicina Veterinária pela Universidade Federal de Minas Gerais (1997) e doutorado em Epidemiologia - Atlantic Veterinary College (2006). Atualmente é professor associado da Universidade Federal de Minas Gerais. Tem experiência na área de Medicina Veterinária, com ênfase em Epidemiologia, atuando principalmente nos seguintes temas: análise de dados epidemiológicos, distribuição espacial, bioestatística, saúde animal e pública.
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
