@@ -4,8 +4,9 @@
   <img src="banner.png" >
 </p>
 
-# Carlos Melo
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+# João Paulo Amaral Haddad
+<sub>*Professor Associado de Epidemiologia e Bioestatística - Escola de Veterinária UFGG</sub>
+<sub>*Coordenador Geral de Avaliação de Risco e Inteligência Estratégica - CGRI/DSN/SDA/MAPA</sub>
 
 As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
 
