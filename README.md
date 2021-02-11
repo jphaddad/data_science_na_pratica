@@ -5,7 +5,7 @@
 </p>
 
 # João Paulo Amaral Haddad
-<P>Professor Associado de Epidemiologia e Bioestatística - Escola de Veterinária UFMG</P>
+<Sub>Professor Associado de Epidemiologia e Bioestatística - Escola de Veterinária UFMG</Sub>
 <P>Coordenador Geral de Avaliação de Risco e Inteligência Estratégica - CGRI/DSN/SDA/MAPA</P>
 
 Graduado em Medicina Veterinária pela Universidade Federal de Minas Gerais (1993), mestrado em Medicina Veterinária pela Universidade Federal de Minas Gerais (1997) e doutorado em Epidemiologia - Atlantic Veterinary College (2006). Atualmente é professor associado da Universidade Federal de Minas Gerais. Tem experiência na área de Medicina Veterinária, com ênfase em Epidemiologia, atuando principalmente nos seguintes temas: análise de dados epidemiológicos, distribuição espacial, bioestatística, saúde animal e pública.
