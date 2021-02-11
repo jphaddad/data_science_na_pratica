@@ -3,7 +3,8 @@
 <p align="center">
   <img src="banner.png" >
 </p>
-# **Currently in construction**
+
+**Currently in construction**
 
 # Professor João Paulo Amaral Haddad, Vetrinary Doctor, MSc, PhD
 <Sub>*Associate Professor of Epidemiology and Bioestatistic* at Veterinary School UFMG - currently assigned as
